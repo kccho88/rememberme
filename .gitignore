@@ -39,3 +39,9 @@ next-env.d.ts
 /public/uploads
 /uploads
 
+# API keys and sensitive files
+lib/api.md
+*.md.key
+*.key
+api*.md
+
